@@ -5,7 +5,7 @@ Hi, this is a list of recommended image formats for various social media platfor
 
 > All image formats will eventually be on this page. But for now, check out the `data.json` file. Otherwise, access the raw file via your code at [this link](https://raw.githubusercontent.com/the-duck/social-media-image-sizes/master/data.json)
 
-## Usage
+##  Usage
 
 The idea is to use the `data.json` file as it gets updated. All entries go into the "data" key.
 
@@ -23,7 +23,7 @@ Below, you will find every type of image format followed by their `type` attribu
 Then it's up to you to parse this :)
 
 
-### Instagram
+###  Instagram
 
 * Profile image / type:`instagram:profile`
 
@@ -37,3 +37,10 @@ Then it's up to you to parse this :)
 
 
 ### Google Business
+
+
+## TODO :
+
+* Some resources don't agree on the ideal image sizes
+* good link : https://blog.bufferapp.com/ideal-image-sizes-social-media-posts
+* https://blog.hootsuite.com/social-media-image-sizes-guide/
