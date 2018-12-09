@@ -3,7 +3,7 @@
 Hi, this is a list of recommended image formats for various social media platforms.
 
 
-> All image formats will eventually be on this page. But for now, check out the `data.json` file. Otherwise, access the raw file via your code at [this link](https://raw.githubusercontent.com/the-duck/social-media-image-sizes/master/data.json)
+> All image formats will eventually be on this page. But for now, check out the `data.json` file. Otherwise, access the raw file via your code at [this link](https://raw.githubusercontent.com/curatednews/social-media-image-sizes/master/data.json)
 
 ##  Usage
 
