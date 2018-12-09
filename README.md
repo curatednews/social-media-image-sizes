@@ -3,7 +3,7 @@
 Hi, this is a list of recommended image formats for various social media platforms.
 
 
-> All image formats will eventually be on this page. But for now, check out the `data.json` file. Otherwise, access the raw file via your code at [this link]()
+> All image formats will eventually be on this page. But for now, check out the `data.json` file. Otherwise, access the raw file via your code at [this link](https://raw.githubusercontent.com/the-duck/social-media-image-sizes/master/data.json)
 
 ## Usage
 
@@ -22,9 +22,11 @@ An entry looks like this:
 Below, you will find every type of image format followed by their `type` attribute.
 Then it's up to you to parse this :)
 
+
 ### Instagram
 
 * Profile image / type:`instagram:profile`
+
 
 ### Twitter
 
